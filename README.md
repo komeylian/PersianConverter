@@ -61,6 +61,18 @@ For more information and detailed documentation, please refer to the documentati
 
 # نصب و استفاده از کتابخانه PersianConverter
 
+
+
+## نحوه نصب 
+
+بار نصب ار دستور pip به شرح ذیل استفاده کنید :
+
+```shell
+pip install PersianConverter
+```
+
+
+
 ## نمونه کد استفاده:
 ```python
 from persian_converter import fprint
